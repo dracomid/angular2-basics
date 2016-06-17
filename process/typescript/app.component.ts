@@ -1,7 +1,7 @@
 import {Component} from 'angular2/core';
 import {ArtistItemComponent} from './artist-item.component';
 import {ArtistDetailsComponent} from './artist-details.component';
-import {IArtist} from './artists';
+import {IArtist} from './IArtist';
 import {SearchPipe} from './search.pipe';
 
 @Component({
